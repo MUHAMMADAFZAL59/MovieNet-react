@@ -1,0 +1,3 @@
+[submodule "MovieNet-react"]
+	path = MovieNet-react
+	url = https://github.com/MUHAMMADAFZAL59/MovieNet-react.git
